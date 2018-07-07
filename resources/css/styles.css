@@ -1,0 +1,42 @@
+/* font embeds
+font-family: 'Open Sans', sans-serif;
+font-family: 'Monoton', cursive;
+*/
+
+html{
+
+}
+
+
+
+/* HEADER STYLES */
+.active{
+
+}
+
+
+
+
+
+/* CAROUSEL STYLTES */
+.background-bike{
+  background-image: url("../images/jumbotron-bike.jpg");
+}
+
+.container-fluid p{
+  text-shadow: #000000
+}
+
+.btn-primary{
+
+}
+
+.btn-primary:hover{
+  transition: .5s box-shadow; 
+}
+
+.btn-primary:active{
+  transition: box-shadow:
+}
+
+/* FEATURE PROJECT STYLES */
